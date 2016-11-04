@@ -1,0 +1,5 @@
+springboot:
+     message:Hello world from yml
+         firstName:Radhakrishnan
+         lastName:Selavaraj
+    
